@@ -1,0 +1,6 @@
+{
+  "name": "macOS Auto Clicker Builder",
+  "description": "An interactive design canvas and code compiler to build, simulate, and configure a native multi-target macOS Auto Clicker app with floating overlays and CoreGraphics event emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
